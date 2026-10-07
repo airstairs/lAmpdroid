@@ -8,3 +8,9 @@ edison bulb lamp simulator in android for background hues
 
 
 
+
+
+
+https://play.google.com/store/apps/details?id=moe.zhs.caffeine&hl=en_US  
+
+^ keep lAmpdroid on
